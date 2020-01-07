@@ -67,8 +67,8 @@
   </build>
  <distributionManagement>
     <snapshotRepository>
-      <id>nexus-snap</id>
-      <url>http://ec2-13-232-220-12.ap-south-1.compute.amazonaws.com:8081/repository/nexus-snap/</url>
+      <id>maven-build</id>
+      <url>http://ec2-13-232-220-12.ap-south-1.compute.amazonaws.com:8081/repository/maven-build/</url>
     </snapshotRepository>
  </distributionManagement>
 
